@@ -4,7 +4,7 @@
 ```
 make
 ```
-### Para executar (so testei no windows):
+### Para executar:
 ```
 nomeDoExecutavel < exampleNum.txt
 ```
